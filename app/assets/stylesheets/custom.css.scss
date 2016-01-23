@@ -1,0 +1,98 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+.navbar {
+	background-color: #010440;
+}
+
+.btn-success {
+	background-color: #F26B1D;
+}
+
+.btn-warning {
+	background-color: #F2A516;
+}
+
+#logo {
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+
+#logo:hover {
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	background-color: #730237;
+}
+
+.nav_item {
+	float: left;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	color: #D9043D;
+}
+
+body {
+	margin-top: 60px;	
+}
+
+.container {
+	
+	background-color : #D9043D;
+}
+
+.jumbotron {
+	padding-top : 30px;
+	background-color: #730237;
+	color : #D9043D;
+}
+
+.center {
+	text-align: center;
+}
+
+h1, h2, h3, h4 {
+	line-height : 1;
+}
+
+h1 {
+	font-size : 3em;
+	letter-spacing : -2px; 
+	margin-bottom : 30px;
+	text-align : center;
+}
+
+h2 {
+	font-size : 2em;
+	letter-spacing : -2px; 
+	margin-bottom : 30px;
+	text-align : center;
+	color: #F26B1D;
+}
+
+.mid-row-column {
+	background-color : #F2A516;
+	color : #730237;
+	padding-left : -5px;
+	padding-right : -5px;
+	padding-bottom : 10px;
+}
+
+.midrow-btn {
+	background-color : #010440;
+	color : #F26B1D;
+}
+
+.footer {
+	margin-top : 25px;
+	padding-top : 35px;
+	padding-bottom : 35px;
+	padding-left : 50px;
+	background-color : #010440;
+	color : #D9043D;
+
+}
