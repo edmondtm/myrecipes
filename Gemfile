@@ -35,7 +35,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-group :development do
+group :development, :test do
  
   gem 'byebug'
   gem 'mysql2'
